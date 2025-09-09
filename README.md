@@ -8,4 +8,4 @@
 **A2** The LLM is like the brain that understands and generates language. An agent uses that brain to take actions, connect with tools, and complete tasks. So the agent is not the brain itself — it’s more like the decision-maker that uses the brain to get things done..
 <p><b>Short Answer</b></p>
 
-**A2** The LLM is the brain, and the agent is the one using that brain to act and get things done.
+**A2** The LLM is the brain, and the agent is the one using that brain to act and get things done..
