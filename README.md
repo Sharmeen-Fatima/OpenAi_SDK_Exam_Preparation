@@ -9,4 +9,5 @@
 <p><b>Short Answer</b></p>
 
 **A2** The LLM is the brain, and the agent is the one using that brain to act and get things done..
-### What is Runner?
+### Q3 What is Runner?
+**A3** As the name suggests, a **Runner** is something that runs or executes a task. In the Agentic AI SDK, the **Runner** is responsible for running the **Agent**, meaning it helps the Agent operate and perform its tasks.
