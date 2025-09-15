@@ -1,10 +1,9 @@
 # Global_Agent
 
-#### What is Global Agent?
-<p>Global Agent is a ....... WE WILL UPDATE SOONN...</p>
+#### Q1. What is Global Agent?
+#### Q2.  Why we use Global Agent?
+#### Q3.  What is the Benefits of Global Agents?
 
-#### Why we use Global Agent?
-#### What is the Benefits of Global Agents?
 
 
 
