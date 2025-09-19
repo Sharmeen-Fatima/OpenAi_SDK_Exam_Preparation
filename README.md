@@ -25,3 +25,12 @@
 - Defining the maximum number of tokens ✍🏻
 - Choosing the response format 👍
 - Controlling function calling behavior 🔐
+
+---
+### Why we use <code>Run_Config?</code> 🙄
+✔️ To customize the behavior of the Assistant. For example, you can:
+- Stream the output in real-time 🎯
+- Use a specific tool ⭐
+- Control the temperature (creativity level) 💡
+- Set a token limit 😊
+- Define a function call strategy (auto, none, or a specific function) 💎
