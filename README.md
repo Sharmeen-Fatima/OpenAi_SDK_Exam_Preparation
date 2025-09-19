@@ -34,3 +34,7 @@
 - Control the temperature (creativity level) 💡
 - Set a token limit 😊
 - Define a function call strategy (auto, none, or a specific function) 💎
+
+---
+### Q6: 🛠️ When <code>run_config</code> Is Not Used...
+**A6** If you don’t specify a <code>run_config,</code> the OpenAI SDK will use default values. However, this may lead to deterministic outputs or incorrect tool selection — which is why providing a run_config is considered a best practice. ✅
