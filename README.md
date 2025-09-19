@@ -40,4 +40,6 @@
 **A6** If you don’t specify a <code>run_config,</code> the OpenAI SDK will use default values. However, this may lead to deterministic outputs or incorrect tool selection — which is why providing a run_config is considered a best practice. ✅
 
 ---
+- **📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com).****
+- ***✒ For more information about Agentic Ai and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
 ***“Learning never stops — stay curious, stay creative!”***
