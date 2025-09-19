@@ -11,18 +11,3 @@
 **A2** The LLM is the brain, and the agent is the one using that brain to act and get things done..
 ### Q3 What is Runner?
 **A3** As the name suggests, a **Runner** is something that runs or executes a task. In the Agentic AI SDK, the **Runner** is responsible for running the **Agent**, meaning it helps the Agent operate and perform its tasks.
-
----
-
-## ⭐ Tips
-
-- `#` = Heading (1 level)
-- `##` = Subheading (2 level)
-- `-` = Bullet points
-- <code>```python```</code> = Code block for Python
-- <code>```bash```</code> = Code block for terminal commands
-- Use emojis to make it visually clean and attractive
-
----
-
-Agar aap chahein, to mujhe apne project ka naam aur use-case batayein, me ye template aap ke liye customize bhi kar dunga.
