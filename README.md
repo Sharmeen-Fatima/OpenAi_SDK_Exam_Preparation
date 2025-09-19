@@ -38,3 +38,6 @@
 ---
 ### Q6: 🛠️ When <code>run_config</code> Is Not Used...
 **A6** If you don’t specify a <code>run_config,</code> the OpenAI SDK will use default values. However, this may lead to deterministic outputs or incorrect tool selection — which is why providing a run_config is considered a best practice. ✅
+
+---
+***“Learning never stops — stay curious, stay creative!”***
