@@ -28,7 +28,7 @@
 
 ---
 ### Q5: Why we use <code>Run_Config?</code> 🙄
-✔️ To customize the behavior of the Assistant. For example, you can:
+**A5** ✔️ To customize the behavior of the Assistant. For example, you can:
 - Stream the output in real-time 🎯
 - Use a specific tool ⭐
 - Control the temperature (creativity level) 💡
