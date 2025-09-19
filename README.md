@@ -11,6 +11,7 @@
 **A2** The LLM is the brain, and the agent is the one using that brain to act and get things done..
 ### Q3 What is Runner?
 **A3** As the name suggests, a **Runner** is something that runs or executes a task. In the Agentic AI SDK, the **Runner** is responsible for running the **Agent**, meaning it helps the Agent operate and perform its tasks.
+
 ---
 ### Q4 <code>Run_Config</code> in OPENAI SDK.
 **A4** When using the OpenAI SDK’s Assistant API (especially with tool calling or function calling), the run_config parameter is used to define additional options or settings, such as:
