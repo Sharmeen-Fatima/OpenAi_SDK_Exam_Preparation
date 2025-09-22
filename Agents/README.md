@@ -2,7 +2,7 @@
 
 ## THE THING WE HAVE LEARN IN THIS SIMPLE AGENT
 
-#### Highlights.
+#### Highlights ✨
 
 - agents
 - Agent
@@ -14,3 +14,6 @@
 - load_dotenv
 - os
 - Connect API Key
+
+#### agents. ✒
+<p>Here agents we use as a library</p>
