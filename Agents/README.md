@@ -53,3 +53,7 @@
 
 - Loads environment variables from a `.env` file.
 - It's a **secure way to store sensitive information** like API keys, tokens, and other configuration values.
+
+---
+#### 7. import os
+- A built-in Python module used to **interact with the operating system**, especially for accessing **environment variables** (e.g., `os.getenv()` to read values).
