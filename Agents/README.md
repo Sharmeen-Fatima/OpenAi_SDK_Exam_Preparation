@@ -37,3 +37,11 @@
 #### 4. AsyncOpenAI
 - An <code>async</code>-compatible client for <code>OpenAI-style</code> APIs (including <code>Gemini,</code> if it follows the same API format).
 - It handles API <code>requests</code> to Gemini.
+
+---
+#### 5. RunConfig
+- This object defines the **global configuration** for running the agent:
+    - Which model will be used
+    - Whether tracing is enabled or disabled
+    - Which provider will run the model
+- Think of it as a **global behavior controller** for the agent's execution.
