@@ -14,11 +14,13 @@
 - os
 - Connect API Key
 
+---
 #### 1. Agent 🤖
 
 - Represents the LLM (Large Language Model) agent.😏
 - You can give it instructions (for example, "act like a helpful assistant").✨
 - This agent will later take input and send a query to the model. ⭐
+
 
 
 
