@@ -65,3 +65,9 @@
 - Loads the `.env` file so that you can access its values using `os.getenv(...)`.
 - It ensures environment variables are available in your Python code.
 
+---
+#### 9. Connect_API_KEY.
+
+- `api_key = os.getenv("GEMINI_API_KEY")`
+- Securely fetches the **Gemini API key** from the `.env` file using `os.getenv(...)`.
+- This keeps the key private and out of your source code.
