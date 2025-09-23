@@ -32,3 +32,8 @@
 #### 3. <code>OpenAIChatCompletionsModel</code>
 - This class defines a model that follows the <code>**OpenAI-style chat completion API**</code>.
 - In this example, <code>**Gemini**</code> has also been wrapped to behave like this API.
+
+---
+#### 4. AsyncOpenAI
+- An <code>async</code>-compatible client for <code>OpenAI-style</code> APIs (including <code>Gemini,</code> if it follows the same API format).
+- It handles API <code>requests</code> to Gemini.
