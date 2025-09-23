@@ -26,4 +26,5 @@
 
 - Used to run the <code>agent.</code>
 - It manages the interaction between the <code>agent</code> and the model.
-- Here, <code>Runner.run_sync(...)</code> is used — which means it is running in **synchronous (non-async)** mode.
+- Here, <code>Runner.run_sync(...)</code> is used — which means it is running in <code>**synchronous (non-async)**</code> mode.
+
