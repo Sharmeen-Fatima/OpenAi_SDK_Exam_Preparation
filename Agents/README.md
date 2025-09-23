@@ -60,7 +60,8 @@
 - A built-in Python module used to **interact with the operating system**, especially for accessing **environment variables** (e.g., `os.getenv()` to read values).
 
 ---
-#### `load_dotenv()`
+#### 8. `load_dotenv()`
 
 - Loads the `.env` file so that you can access its values using `os.getenv(...)`.
 - It ensures environment variables are available in your Python code.
+
