@@ -4,7 +4,6 @@
 
 #### Highlights ✨
 
-- agents
 - Agent
 - Runner
 - OpenAIChatCompletionsModel
@@ -15,6 +14,9 @@
 - os
 - Connect API Key
 
-#### 1. agents. ✒
-<p>Here agents we use as a library</p>
+#### 1. Agent 🤖
+- Represents the LLM (Large Language Model) agent.😏
+You can give it instructions (for example, "act like a helpful assistant").✨
+This agent will later take input and send a query to the model. ⭐
+
 
