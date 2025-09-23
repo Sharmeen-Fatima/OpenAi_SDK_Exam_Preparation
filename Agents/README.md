@@ -28,3 +28,7 @@
 - It manages the interaction between the <code>agent</code> and the model.
 - Here, <code>Runner.run_sync(...)</code> is used — which means it is running in <code>**synchronous (non-async)**</code> mode.
 
+---
+#### 3. <code>OpenAIChatCompletionsModel</code>
+- This class defines a model that follows the <code>**OpenAI-style chat completion API**</code>.
+- In this example, <code>**Gemini**</code> has also been wrapped to behave like this API.
