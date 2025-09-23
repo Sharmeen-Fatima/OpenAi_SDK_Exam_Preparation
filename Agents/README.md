@@ -55,5 +55,12 @@
 - It's a **secure way to store sensitive information** like API keys, tokens, and other configuration values.
 
 ---
-#### 7. import os
+#### 7. os
+
 - A built-in Python module used to **interact with the operating system**, especially for accessing **environment variables** (e.g., `os.getenv()` to read values).
+
+---
+#### `load_dotenv()`
+
+- Loads the `.env` file so that you can access its values using `os.getenv(...)`.
+- It ensures environment variables are available in your Python code.
