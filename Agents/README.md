@@ -124,4 +124,6 @@ This creates a **global configuration** that specifies:
 * **Which client or provider** will be used to run the model (`model_provider=client`).
 
 This configuration is typically passed to agents or workflows to define how and where model calls should be handled.
+
 ---
+
