@@ -72,4 +72,24 @@
 - Securely fetches the **Gemini API key** from the `.env` file using `os.getenv(...)`. 🔐
 - This keeps the key private and out of your source code. 💻
 
+-----
+Here's a polished and professional English version of your explanation:
 
+---
+
+### **Client, Model, and Config Setup**
+
+🔹 **AsyncOpenAI(...)**
+
+```python
+client = AsyncOpenAI(
+    api_key=api_key,
+    base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
+)
+```
+This creates an **asynchronous client** to connect with the **Gemini API**.
+
+* `base_url` is the **endpoint** for the Gemini API.
+* This client will handle **all model-related calls and requests**.
+
+---
