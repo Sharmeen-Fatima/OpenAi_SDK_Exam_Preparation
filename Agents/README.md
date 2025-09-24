@@ -73,10 +73,6 @@
 - This keeps the key private and out of your source code. 💻
 
 -----
-Here's a polished and professional English version of your explanation:
-
----
-
 ### **Client, Model, and Config Setup**
 
 🔹 **AsyncOpenAI(...)**
@@ -92,4 +88,20 @@ This creates an **asynchronous client** to connect with the **Gemini API**.
 * `base_url` is the **endpoint** for the Gemini API.
 * This client will handle **all model-related calls and requests**.
 
+---
+
+### **Model Setup**
+
+🔹 **`OpenAIChatCompletionsModel(...)`**
+
+```python
+model = OpenAIChatCompletionsModel(
+    model="gemini-2.0-flash",
+    openai_client=client,
+)
+```
+In this line, the **Gemini model** is wrapped using an **OpenAI-style interface**.
+
+* This allows the **OpenAI Agents SDK** to interact with the Gemini model **as if it were a standard OpenAI model**.
+* It ensures compatibility and smooth integration with tools designed for the OpenAI ecosystem.
 ---
