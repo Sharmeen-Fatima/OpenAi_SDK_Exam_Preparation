@@ -126,4 +126,22 @@ This creates a **global configuration** that specifies:
 This configuration is typically passed to agents or workflows to define how and where model calls should be handled.
 
 ---
+### **Agent Creation and Execution**
 
+🔹 **`Agent(...)`**
+
+```python
+agent = Agent(
+    name="Test Agent",
+    instructions="You are a helpful assistant that provides accurate information.",
+)
+```
+
+This creates an **agent** with a specific name and a set of **behavioral instructions**.
+
+* The `instructions` define **how the language model should behave**, such as being helpful, accurate, and informative.
+* These instructions are used to **guide the LLM's responses** during interaction.
+
+The agent acts as an interface between the user and the underlying model, applying context and control to the conversation.
+
+---
