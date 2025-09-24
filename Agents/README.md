@@ -105,3 +105,23 @@ In this line, the **Gemini model** is wrapped using an **OpenAI-style interface*
 * This allows the **OpenAI Agents SDK** to interact with the Gemini model **as if it were a standard OpenAI model**.
 * It ensures compatibility and smooth integration with tools designed for the OpenAI ecosystem.
 ---
+### **Run Configuration**
+
+🔹 **`RunConfig(...)`**
+
+```python
+config = RunConfig(
+    model=model,
+    tracing_disabled=True,
+    model_provider=client
+)
+```
+
+This creates a **global configuration** that specifies:
+
+* **Which model** will be used (`model=model`),
+* **Tracing is disabled**, meaning no logging or debug information will be collected (`tracing_disabled=True`),
+* **Which client or provider** will be used to run the model (`model_provider=client`).
+
+This configuration is typically passed to agents or workflows to define how and where model calls should be handled.
+---
