@@ -1,9 +1,3 @@
-Great — you're compiling a list of **likely topics or questions** that may come up, possibly in an interview, test, or technical review context, especially related to **LLMs, OpenAI Function Calling, Agents, and Python (Pydantic, etc.)**.
-
-Let me organize and explain each point for clarity. I'll provide short descriptions or answers, and then I can go deeper into any topic you'd like.
-
----
-
 ### 🔧 FUNCTION CALLING, AGENTS & RUNNERS
 
 #### 1. **LLM responses in different scenarios**
@@ -153,4 +147,5 @@ from pydantic import BaseModel
 class WeatherInput(BaseModel):
     city: str
     date: Optional[str] = None
+
 ```
